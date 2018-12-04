@@ -1,0 +1,8 @@
+In this file I created an interactive display that would be more reflective of 
+how an actual cook would want their recipe to be displayed. This includes a toggle drop 
+down menu for the creator of the actual recipe incaase cooks would like to see
+more of their recipes. As well, as a toggle on click for both the ingredients and 
+instructions so that to see the content one does not need to maintain a hover over an
+particular section. As well, I added color indicators for hover to allow users to 
+easily see which tabs they have and have not visited (these colors have bee nchanged from the
+original to reflect a smoother looking page.
